@@ -1,5 +1,7 @@
 # Chaos Controller
 
+[![Build Status](https://travis-ci.org/LAtanassov/chaosctl.svg?branch=master)](https://travis-ci.org/LAtanassov/chaosctl)
+
 is inspired by the Netflix Simian Army and is basically proxies http traffic that randomly 
 * forwards requests or
 * adds latency or
