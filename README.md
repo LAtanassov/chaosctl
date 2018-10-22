@@ -1,7 +1,8 @@
 # Chaos Controller
 
-[![Build Status](https://travis-ci.org/LAtanassov/chaosctl.svg?branch=master)](https://travis-ci.org/LAtanassov/chaosctl)  
+[![Build Status](https://travis-ci.org/LAtanassov/chaosctl.svg?branch=master)](https://travis-ci.org/LAtanassov/chaosctl)
 [![GoDoc](https://godoc.org/github.com/LAtanassov/chaosctl?status.svg)](https://godoc.org/github.com/LAtanassov/chaosctl)
+[![Coverage Status](https://coveralls.io/repos/github/LAtanassov/chaosctl/badge.svg?branch=master)](https://coveralls.io/github/LAtanassov/chaosctl?branch=master)
 
 is inspired by the Netflix Simian Army and is basically http proxies that randomly
 
